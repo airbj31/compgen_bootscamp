@@ -1,9 +1,10 @@
-# Self-Study
+# The Computational Genomics Bootcamp
 
-- This is Self-study area
+Preface&#x20;
 
 
-## Linux/bash
+
+##
 
 ## R
 
