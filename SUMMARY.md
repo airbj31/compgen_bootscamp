@@ -1,10 +1,13 @@
 # Table of contents
 
 * [The Computational Genomics Bootcamp](README.md)
+  * [Genomic Data Science](readme/genomic-data-science.md)
 
-## Group 1
+## Genomic Data Science
 
-* [Genomic Data Science](group-1/genomic-data-science.md)
+* [High-Throughput Analysis](genomic-data-science/high-throughput-analysis.md)
+* [Sequencing](genomic-data-science/sequencing.md)
+* [Phylogenetics](genomic-data-science/phylogenetics.md)
 
 ## Group 2
 
