@@ -4,8 +4,10 @@
 
 * [What is Linux](README.md)
   * [File-permission](linux-bash/Linux/file-permission.md)
-* [Bash Programming](linux-bash/bash-programming.md)
-* [AWK](linux-bash/awk.md)
+* [Bash Programming](linux-bash/bash-programming/README.md)
+  * [Introduction](linux-bash/bash-programming/introduction.md)
+* [AWK](linux-bash/awk/README.md)
+  * [What is the AWK?](linux-bash/awk/what-is-the-awk.md)
 
 ## R-programming
 
