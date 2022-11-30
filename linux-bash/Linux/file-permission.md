@@ -12,8 +12,9 @@ To check File permission, the easiest way is to list files within the current di
 ls -lh
 ```
 
-<pre><code><strong>-rw-r--r--   12   BJKIM   KIMGROUP     12.0K   Nov 29  10:10 my_File
-</strong>|[-][-][-]- [-]   [----]  [-------]    [----]  [----]  [---] [------]
+```
+-rw-r--r--   12   BJKIM   KIMGROUP     12.0K   Nov 29  10:10 my_File
+|[-][-][-]- [-]   [----]  [-------]    [----]  [----]  [---] [------]
 | |  |  | |  |    |       |            |       |       |     |
 | |  |  | |  |    |       |            |       |       |     +->  8. File Name
 | |  |  | |  |    |       |            |       |       +------->  7. time
@@ -26,7 +27,8 @@ ls -lh
 | |  |  +------------------------------------------------------>  2. Others Permissions
 | |  +--------------------------------------------------------->  2. Group Permissions
 | +------------------------------------------------------------>  2. Owner Permissions
-+-------------------------------------------------------------->  1. File Type</code></pre>
++-------------------------------------------------------------->  1. File Type
+```
 
 The output of each line of `ls -l` gave us information about each file within your current directory. The first column consisting of 10 letters, `-rw-r--r--` is file type and file permission and followed by Alternative access method, #link, ower user id, group, file size, date, time, and file name.
 
@@ -36,9 +38,9 @@ The file type is literally the type that indicates that a given file is a direct
 
 * `d`: directory
 * `-`: regular file
-* `l`: Symbolic link -&#x20;
+* `l`: Symbolic link -
 
-#### 2. Ower/Group/Others permission (2-4)
+#### 2. Ower/Group/Others permission.
 
 * `r`: Read permission
 * `w`: Write permission
@@ -50,7 +52,8 @@ The file type is literally the type that indicates that a given file is a direct
 
 #### 5. Owners/Groups
 
+The owner and group has the permission to view/edit/excute the file based on their permission level.&#x20;
+
 #### 6. file size
 
 #### Date & Time
-
