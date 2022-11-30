@@ -3,6 +3,8 @@
 ## Linux/Bash
 
 * [What is Linux](README.md)
+  * [Basic Bash Commands](linux-bash/readme/basic-bash-commands.md)
+  * [Remote Works](linux-bash/readme/remote-works.md)
   * [File-permission](linux-bash/Linux/file-permission.md)
 * [Bash Programming](linux-bash/bash-programming.md)
 * [AWK](linux-bash/awk.md)
